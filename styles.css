@@ -49,11 +49,11 @@ body{
 		}
 			#nav ul li a{
 				padding: 10px;
-				background: #CCF2FC;
+				background: black;
 				color: white;
 			}
 			#nav ul li a:hover{
-				background-color: #ffb424;
+				background-color: #CCF2FC;
 				box-shadow: 0px 1px 1px #666;
 			}
 			#nav ul li a:active{ background-color: 	#808000; }
@@ -71,7 +71,7 @@ body{
 	#footer p{
 		text-align: right;
 		text-transform: uppercase;
-		font-size: 80%;
+		font-size: 100%;
 		color: black;
 	}
 
