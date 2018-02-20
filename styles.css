@@ -50,7 +50,7 @@ body{
 			#nav ul li a{
 				padding: 10px;
 				background: black;
-				color: black;
+				color: white;
 			}
 			#nav ul li a:hover{
 				background-color: #CCF2FC;
